@@ -1,10 +1,10 @@
 ## Graded Quiz - Matrices
 
 
-![](/C1/w1/q1/ss1.png)
-![](/C1/w1/q1/ss2.png)
-![](/C1/w1/q1/ss3.png)
-![](/C1/w1/q1/ss4.png)
-![](/C1/w1/q1/ss5.png)
-![](/C1/w1/q1/ss6.png)
-![](/C1/w1/q1/ss7.png)
+![](/linea-algebra/week1/quiz1/ss1.png)
+![](/linea-algebra/week1/quiz1/ss2.png)
+![](/linea-algebra/week1/quiz1/ss3.png)
+![](/linea-algebra/week1/quiz1/ss4.png)
+![](/linea-algebra/week1/quiz1/ss5.png)
+![](/linea-algebra/week1/quiz1/ss6.png)
+![](/linea-algebra/week1/quiz1/ss7.png)
